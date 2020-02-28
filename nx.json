@@ -17,6 +17,15 @@
     "project1-e2e": {
       "tags": [],
       "implicitDependencies": ["project1"]
+    },
+    "lib1": {
+      "tags": []
+    },
+    "lib2": {
+      "tags": []
+    },
+    "lib3": {
+      "tags": []
     }
   }
 }
