@@ -1,7 +1,6 @@
 {
   "npmScope": "nx-affected-test",
-  "implicitDependencies": {
-  },
+  "implicitDependencies": {},
   "projects": {
     "project1": {
       "tags": []
@@ -17,6 +16,12 @@
       "tags": []
     },
     "lib3": {
+      "tags": []
+    },
+    "lib4": {
+      "tags": []
+    },
+    "server": {
       "tags": []
     }
   }
